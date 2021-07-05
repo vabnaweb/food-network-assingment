@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 55px;
+    margin:-4px;
+
+}
+span{
+    color:rgb(0, 183, 255);
+}
+.section{
+    display: flex;
+}
+#line{
+    text-align: justify;
+    margin-right:285px;
+    padding:5px;
+}
+.equal{
+    width="50%";
+    margin:35px;
+}
+.equal img{
+    width:510px;
+    height: 390px;
+}
+.button{
+    background-image: linear-gradient(rgb(10, 113, 119),rgb(108, 144, 210));
+    padding:10px 15px;
+    border-radius: 20px;
+    text-decoration: none;
+}
