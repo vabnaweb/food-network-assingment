@@ -32,7 +32,7 @@ span{
     text-decoration: none;
 }
 .details img{
-   width: 265px;
+   width: 280px;
    height:425px ;
    padding-left: 110px;
 }
@@ -65,3 +65,42 @@ span{
     background-image: url(Frame\ 57.jpg);
     margin-top:60px;
 }
+.recipies{
+    display: flex;
+  width: 80%;
+ margin: auto;
+}
+
+.header{
+    text-align: center;
+    margin-top: 100px;
+   
+}
+#header-line{
+    font-size: 12px;
+    margin-top: -15px;
+    padding: 10px;
+}
+
+.project-cover{
+ font-size: 20px;
+ margin:30px;
+ padding:20px;
+ text-align: justify;
+ box-shadow: -10px 15px 20px -5px gray;
+ border-radius: 15px;
+ 
+ 
+}
+.text-size{
+    font-size: 12px;
+    padding-right:65px;
+}
+.cover-size{
+ height: 160px;
+ width: 235px;
+}
+#radious{
+    border-radius: 10px;
+}
+
