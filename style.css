@@ -90,12 +90,34 @@ span{
     text-align: justify;
 }
 
-
-.recipies{
+#recipes{
     display: flex;
-  width: 80%;
- margin: auto;
+    width: 91%;
+    margin: auto;
+    
+    
 }
+
+#recipes img{
+    height: 240px;
+    width: 315px;
+    border-radius: 20px;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 15px;
+    
+}
+
+.manage{
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 40px;
+    border-radius: 18px;
+    box-shadow: 10px 10px 25px gray;
+    height: 455px;
+}
+
 
 .header{
     text-align: center;
@@ -108,27 +130,11 @@ span{
     padding: 10px;
 }
 
-.project-cover{
- font-size: 15px;
- margin:30px;
- padding:20px;
- text-align: justify;
- box-shadow: -10px 15px 20px -5px gray;
- border-radius: 15px;
- 
- 
-}
 .text-size{
     font-size: 12px;
     padding-right:65px;
 }
-.cover-size{
- height: 160px;
- width: 235px;
-}
-#radious{
-    border-radius: 10px;
-}
+
 .followers{
     display: flex;
     margin-left: 155px;
