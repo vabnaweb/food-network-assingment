@@ -31,3 +31,37 @@ span{
     border-radius: 20px;
     text-decoration: none;
 }
+.details img{
+   width: 265px;
+   height:425px ;
+   padding-left: 110px;
+}
+.details{
+    width:50%;
+    margin: 60px;
+
+}
+.padding{
+    padding:130px;
+    margin:40px;
+}
+.contract-link{
+    background-image: linear-gradient(rgb(10, 113, 119),rgb(108, 144, 210));
+    padding: 8px;
+    border-radius: 30px;
+    text-decoration: none;
+    margin:5px;
+    
+
+
+}
+#about{
+    font-size:30px ;
+}
+#text-align{
+    text-align: justify;
+}
+.background{
+    background-image: url(Frame\ 57.jpg);
+    margin-top:60px;
+}
