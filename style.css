@@ -1,10 +1,30 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:0%;
 }
 h1{
     font-size: 55px;
     margin:-4px;
 
+}
+.navbar{
+    background-color: gainsboro;
+    display:flex;
+    margin-left: 0%;
+    margin-right: 0%;
+   
+}
+.nav-item{
+   padding: 1%; 
+   
+ margin:-5px;
+ text-decoration: none;
+ 
+}
+.search{
+   margin:3px;
+   padding-left:790px;
+  
 }
 span{
     color:rgb(0, 183, 255);
@@ -18,7 +38,7 @@ span{
     padding:5px;
 }
 .equal{
-    width="50%";
+    width :"50%";
     margin:35px;
 }
 .equal img{
@@ -121,6 +141,8 @@ span{
     padding:1%;
     margin-top:5px ;
     margin-bottom: 8px;
+    margin-left: 100px;
+  
 }
 
 .form{
