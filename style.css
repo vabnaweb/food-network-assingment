@@ -38,7 +38,7 @@ span{
     padding:5px;
 }
 .equal{
-    width :"50%";
+    width :50%;
     margin:35px;
 }
 .equal img{
@@ -55,6 +55,14 @@ span{
    width: 280px;
    height:425px ;
    padding-left: 110px;
+  
+}
+.section-background{
+    display: flex;
+    background-image: url(Frame\ 57.jpg);
+    margin-top:60px;
+    
+
 }
 .details{
     width:50%;
@@ -69,7 +77,7 @@ span{
     background-image: linear-gradient(rgb(10, 113, 119),rgb(108, 144, 210));
     padding: 8px;
     border-radius: 30px;
-    text-decoration: none;
+    text-decoration:none;
     margin:5px;
     
 
@@ -81,10 +89,7 @@ span{
 #text-align{
     text-align: justify;
 }
-.background{
-    background-image: url(Frame\ 57.jpg);
-    margin-top:60px;
-}
+
 .recipies{
     display: flex;
   width: 80%;
@@ -148,7 +153,7 @@ span{
 .form{
     background-color: rgb(112, 216, 207);
     text-align: center;
-  margin-left: 25%;
+    margin-left: 25%;
     margin-right:25%;
     border-radius: 5%;
    
