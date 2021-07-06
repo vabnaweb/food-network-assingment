@@ -103,4 +103,38 @@ span{
 #radious{
     border-radius: 10px;
 }
+.followers{
+    display: flex;
+    margin-left: 155px;
+    margin-right: 150px;
+    margin-top: 55px;
+    margin-bottom: 85px;
+    box-shadow: 2px 5px 25px -5px gray;
+   
+}
 
+
+.subscriber{
+   
+ 
+    width:91%;
+    padding:1%;
+    margin-top:5px ;
+    margin-bottom: 8px;
+}
+
+.form{
+    background-color: rgb(112, 216, 207);
+    text-align: center;
+  margin-left: 25%;
+    margin-right:25%;
+    border-radius: 5%;
+   
+}
+#footer{
+background-color: black;
+}
+#food-line{
+    color:darkgray;
+    text-align: center;
+}
