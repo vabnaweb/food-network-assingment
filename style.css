@@ -29,7 +29,7 @@ h1{
 span{
     color:rgb(0, 183, 255);
 }
-.section{
+.section1{
     display: flex;
 }
 #line{
@@ -220,7 +220,7 @@ span{
   
 }
 
-.form{
+.form1{
     background-color: rgb(112, 216, 207);
     text-align: center;
     margin-left: 25%;
@@ -228,7 +228,7 @@ span{
     border-radius: 5%;
    
 }
-#footer{
+#footer1{
 background-color: black;
 }
 #food-line{
